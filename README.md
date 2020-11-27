@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=68217A&color=68217A)
 ![](https://img.shields.io/badge/Code-Godot%20Script-informational?style=flat&logo=Godot%20Engine&logoColor=4588B9&color=4588B9)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=3476AB&color=3476AB)
+![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=C%2B%2B&logoColor=00599C&color=00599C)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Chick-Gu&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Ayo-Tanam&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -60,8 +61,10 @@ Here are some ideas to get you started:
 
 #### :iphone: Mobile
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&color=007ACC)
+![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=3DDC84&color=3DDC84)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=45D1FD&color=45D1FD)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=04599C&color=04599C)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=F89917&color=F89917)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
 ![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=ED800F&color=ED800F)
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=003B57&color=003B57)
