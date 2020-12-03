@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=6383BB&color=6383BB)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue.js&logoColor=3FB27F&color=3FB27F)
+![](https://img.shields.io/badge/Styling-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=563D7C&color=563D7C)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Face-Code&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
