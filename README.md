@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - :office: I’m currently working on <a href="https://github.com/cmlabsdev">cmlabs</a>
 - 🌱 I’m currently learning <a href="https://vuejs.org/">vue.js</a>
 
-#### :chart_with_upwards_trend: Stats
+## :chart_with_upwards_trend: Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=geofany&count_private=true&theme=algolia&include_all_commits=true&show_icons=true&line_height=20" />
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geofany&layout=compact&count_private=true&theme=algolia" />
 </a>
 
-#### :construction_worker: Tech & Tools
-##### :globe_with_meridians: Web
+## :construction_worker: Tech & Tools
+### :globe_with_meridians: Web
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=009F6D&color=009F6D)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=F35045&color=F35045)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=E34F26&color=E34F26)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-#### :video_game: Game
+### :video_game: Game
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=009F6D&color=009F6D)
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=Unity&logoColor=212B35&color=212B35)
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Milos-Bros&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Head-Soccer&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-#### :iphone: Mobile
+### :iphone: Mobile
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=3DDC84&color=3DDC84)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=45D1FD&color=45D1FD)
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=covid_19&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Dota2-Heroes&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-#### :computer: Desktop
+### :computer: Desktop
 ![](https://img.shields.io/badge/Editor-NetBeans-informational?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=447EBA&color=447EBA)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=F89917&color=F89917)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Petani-Terpadu&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### :mega: You can Find me on
+## :mega: You can Find me on
 <a href="https://t.me/Geofany10">
    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
    <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 
-#### :robot: War Machine
+## :robot: War Machine
 <a>
   <img align="center" src="https://img.shields.io/badge/Windows-Acer_E5_476G-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
