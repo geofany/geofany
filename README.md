@@ -39,11 +39,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Styling-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=563D7C&color=563D7C)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Face-Code&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Kasir&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### :video_game: Game
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=009F6D&color=009F6D)
@@ -55,11 +50,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=3476AB&color=3476AB)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=C%2B%2B&logoColor=00599C&color=00599C)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Chick-Gu&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Ayo-Tanam&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Milos-Bros&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Head-Soccer&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :iphone: Mobile
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=3DDC84&color=3DDC84)
@@ -70,16 +60,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=ED800F&color=ED800F)
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=003B57&color=003B57)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=covid_19&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Dota2-Heroes&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :computer: Desktop
 ![](https://img.shields.io/badge/Editor-NetBeans-informational?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=447EBA&color=447EBA)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=F89917&color=F89917)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geofany&repo=Petani-Terpadu&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## :mega: You can Find me on
 <a href="https://t.me/Geofany10">
