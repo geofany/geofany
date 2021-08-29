@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Geofany! I am working on projects related to Web, Mobile, and Game
+I am Geofany! I am working on projects related to Web as a FrontEnd Developer
 <!--
 **geofany/geofany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,41 +29,19 @@ Here are some ideas to get you started:
 
 ## :construction_worker: Tech & Tools
 ### :globe_with_meridians: Web
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=009F6D&color=009F6D)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=F35045&color=F35045)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=E34F26&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=0C73B8&color=0C73B8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=6383BB&color=6383BB)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue.js&logoColor=3FB27F&color=3FB27F)
-![](https://img.shields.io/badge/Styling-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=563D7C&color=563D7C)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### :video_game: Game
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&color=007ACC)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=009F6D&color=009F6D)
-![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=Unity&logoColor=212B35&color=212B35)
-![](https://img.shields.io/badge/Engine-Godot%20Engine-informational?style=flat&logo=Godot%20Engine&logoColor=4588B9&color=4588B9)
-![](https://img.shields.io/badge/Engine-Ren%27Py%20Engine-informational?style=flat&logo=Ren%27Py&logoColor=FF7F7F&color=FF7F7F)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=68217A&color=68217A)
-![](https://img.shields.io/badge/Code-Godot%20Script-informational?style=flat&logo=Godot%20Engine&logoColor=4588B9&color=4588B9)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=3476AB&color=3476AB)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=C%2B%2B&logoColor=00599C&color=00599C)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### :iphone: Mobile
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&color=007ACC)
-![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=3DDC84&color=3DDC84)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=45D1FD&color=45D1FD)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=04599C&color=04599C)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=F89917&color=F89917)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
-![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=ED800F&color=ED800F)
-![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=003B57&color=003B57)
-
-### :computer: Desktop
-![](https://img.shields.io/badge/Editor-NetBeans-informational?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=447EBA&color=447EBA)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=F89917&color=F89917)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## :mega: You can Find me on
 <a href="https://t.me/Geofany10">
