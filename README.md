@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :office: I’m currently working on <a href="https://github.com/cmlabsdev">cmlabs</a>
+- :office: I’m currently working on <a href="https://appsensi.com/">Appsensi</a>
 - 🌱 I’m currently learning <a href="https://nuxtjs.org/">nuxt.js</a>
 
 ## :chart_with_upwards_trend: Stats
