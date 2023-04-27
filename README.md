@@ -70,14 +70,9 @@ Here are some ideas to get you started:
 
 ## :robot: War Machine
 <a>
-  <img align="center" src="https://img.shields.io/badge/Windows-Acer_E5_476G-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Apple-Macbook_Air_M1-707070?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 
 <a>
-  <img align="center" src="https://img.shields.io/badge/Intel-Core_i5_8250U-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/macOS-Ventura_13.3.1-707070?style=for-the-badge&logo=macOS&logoColor=white" />
 </a>
-
-<a>
-  <img align="center" src="https://img.shields.io/badge/NVIDIA-MX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</a>
-
