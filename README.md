@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - :office: I’m currently working on <a href="https://appsensi.com/">Appsensi</a>
-- 🌱 I’m currently learning <a href="https://nuxtjs.org/">nuxt.js</a>
+- 🌱 I’m currently learning <a href="https://nextjs.org/">Next.js</a>
 
 ## :chart_with_upwards_trend: Stats
 
