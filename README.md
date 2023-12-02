@@ -76,5 +76,5 @@ Here are some ideas to get you started:
 </a>
 
 <a>
-  <img align="center" src="https://img.shields.io/badge/macOS-Ventura_13.3.1-707070?style=for-the-badge&logo=macOS&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/macOS-Sonoma_14.0-707070?style=for-the-badge&logo=macOS&logoColor=white" />
 </a>
